@@ -1,7 +1,7 @@
 # اُردو کتب
 ## قرآن کریم
 * [قرآن کریم اُردو ترجمہ مع سورتوں کا تعارف اور مختصر تشریحی نوٹس](http://books.google.com/books/about?id=gCWeDwAAQBAJ) حضرت مرزا طاہر احمد
-* [ قراٰن مجید لفظی ترجمہ](http://books.google.com/books/about?id=uj7lDwAAQBAJ)
+* [ قراٰن مجید لفظی ترجمہ](http://books.google.com/books/about?id=uj7lDwAAQBAJ) حضرت میر محمد اسحٰقؓ
 ## اُردو تفاسیر
 * [تفسیر صغیر](http://books.google.com/books/about?id=R3flDwAAQBAJ) الحاج حضرت مرزا بشیرالدین محمود احمد
 ### تفسیر حضرت مسیح موعود علیہ السلام
