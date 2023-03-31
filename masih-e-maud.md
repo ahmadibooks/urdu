@@ -42,3 +42,19 @@
 * [الاستفتاء ضمیمہ حقیقة الوحی (اُردو ترجمہ)](https://books.google.com/books?id=UgEREAAAQBAJ&printsec=frontcover)
 
 ## ملفوظات
+
+* [جلد 1](http://books.google.com/books/about?id=SHm2EAAAQBAJ) 1891ء تا 1900ء اگست
+* [جلد  2](http://books.google.com/books/about?id=THm2EAAAQBAJ) ستمبر 1900ء تا دسمبر 1901ء
+* [جلد 3](http://books.google.com/books/about?id=Znu2EAAAQBAJ) جنوری 1902ء تا دسمبر 1902ء
+* [جلد 4](http://books.google.com/books/about?id=oHu2EAAAQBAJ) جنوری 1903ء تا مارچ 1903ء
+* [جلد  5](http://books.google.com/books/about?id=snu2EAAAQBAJ) اپریل 1903ء تا دسمبر 1903ء
+* [جلد 6](http://books.google.com/books/about?id=unu2EAAAQBAJ) جنوری 1904ء تا ستمبر 1904ء
+* [جلد 7](http://books.google.com/books/about?id=wHu2EAAAQBAJ) اکتوبر 1904ء تا ستمبر 1905ء
+* [جلد 8](http://books.google.com/books/about?id=0nu2EAAAQBAJ) اکتوبر 1905ء تا اکتوبر 1906ء
+* [جلد 9](http://books.google.com/books/about?id=4nu2EAAAQBAJ) نومبر 1906ء تا اکتوبر1907ء
+* [جلد 10](http://books.google.com/books/about?id=8Hu2EAAAQBAJ) نومبر 1907ء تا مئی 1908ء
+
+### بآواز
+
+* [درس ملفوظات حصہ اوّل](https://soundcloud.com/alislam/urdu-dars-malfoozat-1-dost-muhammad-shahid)
+* [درس ملفوظات حصہ دوم](https://soundcloud.com/alislam/urdu-dars-malfoozat-501-dost-muhammad-shahid)

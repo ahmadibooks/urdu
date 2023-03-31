@@ -2,7 +2,7 @@
 ## تراجم و تفاسیر اور تعلیم القرآن
 
 
-* [قرآن کریم اُردو ترجمہ مع سورتوں کا تعارف اور مختصر تشریحی نوٹس](http://books.google.com/books?id=gCWeDwAAQBAJ&printsec=frontcover) حضرت مرزا طاہر احمد
+* [قرآن کریم اُردو ترجمہ مع سورتوں کا تعارف اور مختصر تشریحی نوٹس](http://books.google.com/books?id=gCWeDwAAQBAJ&printsec=frontcover) حضرت مرزا طاہر احمدؒ
 * [قراٰن مجید لفظی ترجمہ](http://books.google.com/books?id=uj7lDwAAQBAJ&printsec=frontcover) حضرت میر محمد اسحٰقؓ
 
 ## اُردو تفاسیر
