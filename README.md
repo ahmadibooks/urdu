@@ -1,7 +1,3 @@
-# اُردو کتب
+# Al Islam Books
 
-## [قرآن کریم](quran.md) تراجم و تفاسیر اور تعلیم القرآن
-
-## [کتب احادیث و سیرة النبیؐ](hadith.md)
-
-## [کتب حضرت مسیح موعودؑ](masih-e-maud.md)
+# [Urdu](https://github.com/ahmadibooks/urdu/blob/main/urdu.md)
