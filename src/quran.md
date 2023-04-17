@@ -27,7 +27,25 @@
 * [جلد سوم](http://books.google.com/books?id=DRLmDwAAQBAJ&printsec=frontcover)
 * [جلد چہارم](http://books.google.com/books?id=GRLmDwAAQBAJ&printsec=frontcover)
 
-### تفسیر کبیر ۔ الحاج حضرت مرزا بشیرالدین محمود احمدؓ
+### تفسیر کبیر (ایڈیشن 2023ء) ۔ الحاج حضرت مرزا بشیرالدین محمود احمدؓ
+
+* [جلد اول](http://books.google.com/books/about?id=Bc65EAAAQBAJ&printsec=frontcover)
+* [جلد دوم](http://books.google.com/books/about?id=E865EAAAQBAJ&printsec=frontcover)
+* [جلد سوم](http://books.google.com/books/about?id=Fc65EAAAQBAJ&printsec=frontcover)
+* [جلد چہارم](http://books.google.com/books/about?id=Gc65EAAAQBAJ&printsec=frontcover)
+* [جلد پنجم](http://books.google.com/books/about?id=H865EAAAQBAJ&printsec=frontcover)
+* [جلد ششم](http://books.google.com/books/about?id=Oc65EAAAQBAJ&printsec=frontcover)
+* [جلد ہفتم](http://books.google.com/books/about?id=Pc65EAAAQBAJ&printsec=frontcover)
+* [جلد ہشتم](http://books.google.com/books/about?id=Qc65EAAAQBAJ&printsec=frontcover)
+* [جلد نہم](http://books.google.com/books/about?id=Q865EAAAQBAJ&printsec=frontcover)
+* [جلد دہم](http://books.google.com/books/about?id=Rc65EAAAQBAJ&printsec=frontcover)
+* [جلد یازدہم](http://books.google.com/books/about?id=Sc65EAAAQBAJ&printsec=frontcover)
+* [جلد دوازدہم](http://books.google.com/books/about?id=S865EAAAQBAJ&printsec=frontcover)
+* [جلد سیزدہم](http://books.google.com/books/about?id=Uc65EAAAQBAJ&printsec=frontcover)
+* [جلد چہاردہم](http://books.google.com/books/about?id=Vc65EAAAQBAJ&printsec=frontcover)
+* [جلد پانزدہم](http://books.google.com/books/about?id=V865EAAAQBAJ&printsec=frontcover)
+
+### تفسیر کبیر (پرانا ایڈیشن) ۔ الحاج حضرت مرزا بشیرالدین محمود احمدؓ
 
 * [جلد اوّل](http://books.google.com/books?id=e3flDwAAQBAJ&printsec=frontcover)
 * [جلد دوم](http://books.google.com/books?id=h3flDwAAQBAJ&printsec=frontcover)
