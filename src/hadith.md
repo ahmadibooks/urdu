@@ -2,17 +2,22 @@
 
 ## صحیح بخاری (اردو ترجمہ و تشریح کے ساتھ)
 
-* [جلد اوّل](http://books.google.com/books?id=bubmDwAAQBAJ&printsec=frontcover) حدیث نمبر 1 تا 602
-* [جلد دوم](http://books.google.com/books?id=cObmDwAAQBAJ&printsec=frontcover) حدیث نمبر 603 تا 1394
-* [جلد سوم](http://books.google.com/books?id=dubmDwAAQBAJ&printsec=frontcover) حدیث نمبر 1395 تا 2036
-* [جلد چہارم](http://books.google.com/books?id=fObmDwAAQBAJ&printsec=frontcover) حدیث نمبر 2037 تا 2689
-* [جلد پنجم](http://books.google.com/books?id=hubmDwAAQBAJ&printsec=frontcover) حدیث نمبر 2690 تا 3189
-* [جلد ششم](http://books.google.com/books?id=lubmDwAAQBAJ&printsec=frontcover) حدیث نمبر 3190 تا 3488
-* [جلد ہفتم](http://books.google.com/books?id=oObmDwAAQBAJ&printsec=frontcover) حدیث نمبر 3489 تا 3948
-* [جلد ہشتم](http://books.google.com/books?id=rubmDwAAQBAJ&printsec=frontcover) حدیث نمبر 3949 تا 4194
-* [جلد نہم](http://books.google.com/books?id=tObmDwAAQBAJ&printsec=frontcover) حدیث نمبر 4195 تا 4473
-* [جلد دہم](http://books.google.com/books?id=uObmDwAAQBAJ&printsec=frontcover) حدیث نمبر 4474 تا 4729
-* [جلد یاز دھم](http://books.google.com/books?id=9ATpDwAAQBAJ&printsec=frontcover) حدیث نمبر 4730 تا 4809
+* [جلد اوّل](https://books.google.com/books?id=bubmDwAAQBAJ&printsec=frontcover) حدیث نمبر 1 تا 602
+* [جلد دوم](https://books.google.com/books?id=cObmDwAAQBAJ&printsec=frontcover) حدیث نمبر 603 تا 1394
+* [جلد سوم](https://books.google.com/books?id=dubmDwAAQBAJ&printsec=frontcover) حدیث نمبر 1395 تا 2036
+* [جلد چہارم](https://books.google.com/books?id=fObmDwAAQBAJ&printsec=frontcover) حدیث نمبر 2037 تا 2689
+* [جلد پنجم](https://books.google.com/books?id=hubmDwAAQBAJ&printsec=frontcover) حدیث نمبر 2690 تا 3189
+* [جلد ششم](https://books.google.com/books?id=lubmDwAAQBAJ&printsec=frontcover) حدیث نمبر 3190 تا 3488
+* [جلد ہفتم](https://books.google.com/books?id=oObmDwAAQBAJ&printsec=frontcover) حدیث نمبر 3489 تا 3948
+* [جلد ہشتم](https://books.google.com/books?id=rubmDwAAQBAJ&printsec=frontcover) حدیث نمبر 3949 تا 4194
+* [جلد نہم](https://books.google.com/books?id=tObmDwAAQBAJ&printsec=frontcover) حدیث نمبر 4195 تا 4473
+* [جلد دہم](https://books.google.com/books?id=uObmDwAAQBAJ&printsec=frontcover) حدیث نمبر 4474 تا 4729
+* [جلد یاز دھم](https://books.google.com/books?id=9ATpDwAAQBAJ&printsec=frontcover) حدیث نمبر 4730 تا 4809
+* [جلد دواز دھم](https://books.google.com/books/?id=VNnVEAAAQBAJ&printsec=frontcover) حدیث نمبر 4810 تا 5062
+* [جلد سیز دھم](https://books.google.com/books?id=VtnVEAAAQBAJ&printsec=frontcover) حدیث نمبر 5063 تا 5639
+* [جلد چہار دہم](https://books.google.com/books?id=WNnVEAAAQBAJ&printsec=frontcover) حدیث نمبر 5640 تا 6303
+* [جلد پانز دہم](https://books.google.com/books?id=WtnVEAAAQBAJ&printsec=frontcover) حدیث نمبر 6304 تا 6917
+* [جلد شانز دھم](https://books.google.com/books?id=XtnVEAAAQBAJ&printsec=frontcover) حدیث نمبر 6918 تا 7563
 
 ## صحیح مسلم (اُردو ترجمہ کے ساتھ)
 
