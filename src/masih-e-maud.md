@@ -1,5 +1,9 @@
 # کتب حضرت مسیح موعودؑ
 
+## تذکرہ
+
+* الہامات، کشوف و رؤیا (<https://books.google.com/books?id=Z__OEAAAQBAJ&printsec=frontcover>)
+
 ## روحانی خزائن
 
 * [جلد 1](https://books.google.com/books?id=gfwQEAAAQBAJ&printsec=frontcover) براہین احمدیہ (حصہ اوّل، دوم، سوم، چہارم)
