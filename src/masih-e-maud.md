@@ -2,7 +2,7 @@
 
 ## تذکرہ
 
-* الہامات، کشوف و رؤیا (<https://books.google.com/books?id=Z__OEAAAQBAJ&printsec=frontcover>)
+* [الہامات، کشوف و رؤیا] (<https://books.google.com/books?id=Z__OEAAAQBAJ&printsec=frontcover>)
 
 ## روحانی خزائن
 
