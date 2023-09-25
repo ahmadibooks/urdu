@@ -45,19 +45,6 @@
 * [جلد چہاردہم](http://books.google.com/books/about?id=Vc65EAAAQBAJ&printsec=frontcover)
 * [جلد پانزدہم](http://books.google.com/books/about?id=V865EAAAQBAJ&printsec=frontcover)
 
-### تفسیر کبیر (پرانا ایڈیشن) ۔ الحاج حضرت مرزا بشیرالدین محمود احمدؓ
-
-* [جلد اوّل](http://books.google.com/books?id=e3flDwAAQBAJ&printsec=frontcover)
-* [جلد دوم](http://books.google.com/books?id=h3flDwAAQBAJ&printsec=frontcover)
-* [جلد سوم](http://books.google.com/books?id=P3nlDwAAQBAJ&printsec=frontcover)
-* [جلد چہارم](http://books.google.com/books?id=Q3nlDwAAQBAJ&printsec=frontcover)
-* [جلد پنجم](http://books.google.com/books?id=SXnlDwAAQBAJ&printsec=frontcover)
-* [جلد ششم](http://books.google.com/books?id=WXnlDwAAQBAJ&printsec=frontcover)
-* [جلد ہفتم](http://books.google.com/books?id=X3nlDwAAQBAJ&printsec=frontcover)
-* [جلد ہشتم](http://books.google.com/books?id=Y3nlDwAAQBAJ&printsec=frontcover)
-* [جلد نہم](http://books.google.com/books?id=a3nlDwAAQBAJ&printsec=frontcover)
-* [جلد دہم](http://books.google.com/books?id=b3nlDwAAQBAJ&printsec=frontcover)
-
 ### انوار القرآن ۔ حضرت حافظ مرزا ناصر احمدؒ
 
 * [جلد اوّل](http://books.google.com/books?id=uqrmDwAAQBAJ&printsec=frontcover)
